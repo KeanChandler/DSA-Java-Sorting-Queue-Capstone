@@ -147,43 +147,43 @@ Both sorts display the records **before** and **after** sorting.
 
 ### 1. Main Menu
 
-![Main menu](screenshots/main-menu.png)
+![Main menu](files/main-menu.png)
 
 *The main menu showing all available options for records, queue operations, sorting, and exit.*
 
 ### 2. Adding Records and Displaying Stored Records
 
-![Adding and displaying records](screenshots/add-and-display-records.png)
+![Adding and displaying records](files/add-and-display-records.png)
 
 *Registering vehicles (option 1) and displaying all stored records (option 2).*
 
 ### 3. Queue Operations (Enqueue, Peek, Dequeue, Display)
 
-![Queue operations](screenshots/queue-operations.png)
+![Queue operations](files/queue-operations.png)
 
 *Vehicles are enqueued (option 6), the next vehicle is viewed with peek (option 8), the queue is displayed (option 9), and one vehicle is dequeued (option 7).*
 
 ### 4. FIFO Behavior
 
-![FIFO behavior](screenshots/fifo-behavior.png)
+![FIFO behavior](files/fifo-behavior.png)
 
 *The first vehicle added to the queue is the first vehicle that enters, followed by the second, showing First-In, First-Out.*
 
 ### 5. Sorting Algorithm 1: Selection Sort (Plate Number)
 
-![Selection Sort](screenshots/sorting-algorithm-1.png)
+![Selection Sort](files/sorting-algorithm-1.png)
 
 *Records before and after Selection Sort by plate number (A–Z).*
 
 ### 6. Sorting Algorithm 2: Insertion Sort (Arrival Time)
 
-![Insertion Sort](screenshots/sorting-algorithm-2.png)
+![Insertion Sort](files/sorting-algorithm-2.png)
 
 *Records before and after Insertion Sort by arrival time (earliest first).*
 
 ### 7. Input Validation and Error Messages
 
-![Input validation](screenshots/input-validation.png)
+![Input validation](files/input-validation.png)
 
 *Invalid menu choices, an invalid plate number, an invalid time, a duplicate plate number, and an operation on an empty queue are all rejected with clear messages.*
 
@@ -193,7 +193,7 @@ Both sorts display the records **before** and **after** sorting.
 DSA-Java-Sorting-Queue-Capstone/
 ├── src/
 │   └── Main.java
-├── screenshots/
+├── files/
 │   ├── main-menu.png
 │   ├── add-and-display-records.png
 │   ├── queue-operations.png
