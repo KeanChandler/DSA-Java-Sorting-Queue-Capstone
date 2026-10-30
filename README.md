@@ -3,7 +3,7 @@
 
 A console-based Java application (DSA Capstone Project) that uses **manually implemented sorting algorithms**, a **FIFO queue**, and **ArrayLists** to manage vehicles waiting to enter a campus parking facility. The program is written in a **procedural style** (no custom classes or objects).
 
-**Prepared by:** [Your Full Name] – BSIT 2, Section IT2A, De La Salle Lipa
+**Prepared by:** Kean Chandler C. Diaz – BSIT 2, Section IT2A, De La Salle Lipa
 **Subject:** Data Structures and Algorithms
 
 ---
